@@ -1,12 +1,8 @@
-package Activity03;
-
 import java.util.Scanner;
 
-public class activity10 {
-
+public class we {
     public static void main(String[] args) {
-
-        printTree(5);
+        printTree(2);
     }
 
     public static void printTree(int n) {
@@ -42,8 +38,4 @@ public class activity10 {
         }
         System.out.println();
     }
-
-
-
 }
-
